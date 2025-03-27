@@ -5,7 +5,7 @@ This repository contains the slides and materials for the **"Writing with AI: Em
 🖥️ **View the slides here**:  
 👉 [https://iurshina.github.io/chatgpt-artists-workshop/](https://iurshina.github.io/chatgpt-artists-workshop/)
 
-📄 **Downloadable PDF handou on common patters in GPT writing**:  
+📄 **Downloadable PDF handout on common patters in GPT writing**:  
 👉 [ai-syntax-handout.pdf](https://iurshina.github.io/chatgpt-artists-workshop/Syntax-and-Punctuation-of-ChatGPT.pdf)
 
 ---

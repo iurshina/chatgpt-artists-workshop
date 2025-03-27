@@ -2,7 +2,7 @@
 
 ### Slide 0: Writing with AI: Empowering Artists & Researchers with ChatGPT
 
-&nbsp;
+Welcome!
 
 ---
 

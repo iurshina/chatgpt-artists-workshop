@@ -88,6 +88,7 @@
 - 📍 Overuse of transition words (however, thus, while, etc.)
 - 📍 Rarely uses fragments or abrupt shifts — everything is “clean”
 - 📍 Tends to write in perfect grammar — but sounds overly smooth or impersonal
+- [📄 Download the PDF handout](Syntax and Punctuation of ChatGPT.pdf)
 
 ---
 

@@ -122,9 +122,9 @@
 
 ---
 
-### Slide 12: Q&A + Live Prompt Jam
+### Slide 12: Q&A + Live Prompt?
 
-- Ask your questions!
+- Any questions?
 - We can also write some prompts together&#x20;
 
 

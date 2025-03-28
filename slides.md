@@ -2,7 +2,7 @@
 
 ### Slide 0: Writing with AI: Empowering Artists & Researchers with ChatGPT
 
-Welcome!
+- Welcome!
 
 ---
 
@@ -12,8 +12,9 @@ Welcome!
 - I use ChatGPT to:
   - Write tech proposals & project descriptions
   - Motivation letters & outreach emails
+  - Remove errors and typos from any text or messages
   - Get feedback on my poetry (mostly to feel better)
-  - Remove errors and typos from any text
+  
 
 ---
 
@@ -49,7 +50,25 @@ Welcome!
 
 ---
 
-### Slide 5: Prompt Engineering 101
+### Slide 5: GPT-4o and GPT-4.5 – What's New?
+
+- **GPT-4o** (released May 2024):
+  - Multimodal: accepts and generates text, images, audio, and video
+  - Faster, cheaper, and more responsive
+  - Available to free-tier users with rate limits; higher limits with Plus
+  - Ideal for creative tasks, image input/output, and real-time AI use
+
+- **GPT-4.5** (released February 2025):
+  - Improved reasoning and coding accuracy over GPT-4o
+  - Fewer hallucinations, more consistent output across tasks
+  - Stronger performance in scientific, legal, and analytical use cases
+  - Available via ChatGPT Pro and enterprise integrations
+
+*The AI model lineup evolves quickly – check for the latest.*
+
+---
+
+### Slide 6: Prompt Engineering 101
 
 - 🧠 Be specific: topic, audience, tone, length
 - ✨ Use roles: “You are a grant-writing coach…”
@@ -59,7 +78,7 @@ Welcome!
 
 ---
 
-### Slide 6: Advanced Examples
+### Slide 7: Advanced Examples
 
 - "Rewrite this email as a compelling pitch to a curator"
 - "Draft a concept note for a socially engaged media installation on migration"
@@ -68,7 +87,7 @@ Welcome!
 
 ---
 
-### Slide 7: Limitations (Again)
+### Slide 8: Limitations (Again)
 
 - People may recognize AI-written text:
   - Overly smooth, generic phrasing
@@ -80,7 +99,7 @@ Welcome!
 
 ---
 
-### Slide 8: Common Syntax & Punctuation Patterns
+### Slide 9: Common Syntax & Punctuation Patterns
 
 - 📍 Em dashes everywhere — often for emphasis or rhythm
 - 📍 Comma-heavy, especially in lists and long clauses
@@ -92,7 +111,7 @@ Welcome!
 
 ---
 
-### Slide 9: Writing in Your Style
+### Slide 10: Writing in Your Style
 
 - Paste your past work & ask: “Analyze my writing style”
 - Then: “Write about XYZ in the same style”
@@ -101,7 +120,7 @@ Welcome!
 
 ---
 
-### Slide 10: Web Search with ChatGPT Pro
+### Slide 11: Web Search with ChatGPT Pro
 
 - Yes, ChatGPT Pro can access the web (if you ask!)
 - Great for:
@@ -111,7 +130,7 @@ Welcome!
 
 ---
 
-### Slide 11: Deep Research Mode (ChatGPT Pro)
+### Slide 12: Deep Research Mode (ChatGPT Pro)
 
 - OpenAI’s  Deep Research tool lets ChatGPT:
   - Autonomously search the web
@@ -122,7 +141,42 @@ Welcome!
 
 ---
 
-### Slide 12: Q&A + Live Prompt?
+### Slide 13: What Are Custom GPTs?
+
+- Custom GPTs are tailored versions of ChatGPT with:
+  - Special instructions (like personality, goals, tone)
+  - Optional uploaded files for added knowledge
+  - Access to tools (code interpreter, web, DALL·E, etc.)
+
+- Anyone can create one using the **GPT Builder**:
+  - No coding required — just describe what you want
+  - Configure behavior, knowledge, and capabilities
+  - Test and refine it in real-time
+
+- Used for:
+  - Writing assistants, tutors, life coaches, HR bots
+  - Art portfolio reviewers, grant writing partners, UX advisors
+
+---
+
+### Slide 13: Are Custom GPTs Better?
+
+- ✅ **They can be** — if well-designed:
+  - Stay in character and stick to specific domains
+  - Work faster by skipping broad generalizations
+  - Handle niche tasks better than generic ChatGPT
+
+- ⚠️ **But**:
+  - Quality depends on good setup and clear instructions
+  - Not smarter than GPT-4o — just more focused
+  - Can still hallucinate if not properly grounded
+
+- 🧪 Examples:
+  - "Expert Grant Proposal Writer" (haven't tried myself)
+
+---
+
+### Slide 14: Q&A + Live Prompt?
 
 - Any questions?
 - We can also write some prompts together&#x20;

@@ -28,7 +28,25 @@
 
 ---
 
-### Slide 3: Core Limitations
+### Slide 3: How Does an LLM Work?
+
+Let’s say you prompt ChatGPT with:
+
+    "An 8-year-old says: I hate going to..."
+
+ChatGPT completes it with:
+
+    "...school."
+
+Not:
+
+    "...a strip bar."
+
+💡 Key idea:
+ChatGPT doesn’t know what’s appropriate or true.
+It just predicts what’s most likely to come next based on patterns in its training data.
+
+### Slide 4: Core Limitations
 
 - ✖️ **Confidently wrong** (“hallucinations”)
 - ✖️ Lacks real-world experience or emotional nuance
@@ -37,7 +55,7 @@
 
 ---
 
-### Slide 4: Basic Use
+### Slide 5: Basic Use
 
 - Start simple:
   - “Write a 300-word artist statement about…”
@@ -52,7 +70,7 @@
 
 ---
 
-### Slide 5: GPT-4o and GPT-4.5 – What's New?
+### Slide 6: GPT-4o and GPT-4.5 – What's New?
 
 - **GPT-4o** (released May 2024):
   - Multimodal: accepts and generates text, images, audio, and video
@@ -70,7 +88,7 @@
 
 ---
 
-### Slide 6: Prompt Engineering 101
+### Slide 7: Prompt Engineering 101
 
 - 🧠 Be specific: topic, audience, tone, length
 - ✨ Use roles: “You are a grant-writing coach…”
@@ -80,7 +98,7 @@
 
 ---
 
-### Slide 7: Advanced Examples
+### Slide 8: Examples
 
 - "Rewrite this email as a compelling pitch to a curator"
 - "Draft a concept note for a socially engaged media installation on migration"
@@ -89,7 +107,7 @@
 
 ---
 
-### Slide 8: Limitations (Again)
+### Slide 9: Limitations (Again)
 
 - People may recognize AI-written text:
   - Overly smooth, generic phrasing
@@ -101,7 +119,7 @@
 
 ---
 
-### Slide 9: Common Syntax & Punctuation Patterns
+### Slide 10: Common Syntax & Punctuation Patterns
 
 - 📍 Em dashes everywhere — often for emphasis or rhythm
 - 📍 Comma-heavy, especially in lists and long clauses
@@ -113,26 +131,25 @@
 
 ---
 
-### Slide 10: Writing in Your Style
+### Slide 11: Writing in Your Style
 
 - Paste your past work & ask: “Analyze my writing style”
 - Then: “Write about XYZ in the same style”
 - Tip: Ask it to describe your tone first, then apply it to new drafts
-- Great for: artist bios, mission statements, funding appeals
+- Great for: bios, mission statements, funding appeals
 
 ---
 
-### Slide 11: Web Search with ChatGPT Pro
+### Slide 12: Web Search with ChatGPT Pro
 
 - Yes, ChatGPT Pro can access the web (if you ask!)
 - Great for:
-  - Finding current open calls and residencies
   - Looking up real stats, policy quotes, orgs
 - Tip: Say “Search the web for…” or “Find me current…”
 
 ---
 
-### Slide 12: Deep Research Mode (ChatGPT Pro)
+### Slide 13: Deep Research Mode (ChatGPT Pro)
 
 - OpenAI’s  Deep Research tool lets ChatGPT:
   - Autonomously search the web
@@ -143,7 +160,7 @@
 
 ---
 
-### Slide 13: What Are Custom GPTs?
+### Slide 14: What Are Custom GPTs?
 
 - Custom GPTs are tailored versions of ChatGPT with:
   - Special instructions (like personality, goals, tone)
@@ -161,7 +178,7 @@
 
 ---
 
-### Slide 13: Are Custom GPTs Better?
+### Slide 15: Are Custom GPTs Better?
 
 - ✅ **They can be** — if well-designed:
   - Stay in character and stick to specific domains
@@ -178,7 +195,7 @@
 
 ---
 
-### Slide 14: Q&A + Live Prompt?
+### Slide 16: Q&A + Live Prompt?
 
 - Any questions?
 - We can also write some prompts together&#x20;

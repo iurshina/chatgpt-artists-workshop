@@ -1,6 +1,5 @@
 ---
 ---
----
 
 ### Slide 0: Writing with AI: Empowering Artists & Researchers with ChatGPT
 
@@ -17,7 +16,6 @@
   - Remove errors and typos from any text or messages
   - Get feedback on my poetry (mostly to feel better)
   
-
 ---
 
 ### Slide 2: What is ChatGPT / an LLM?
@@ -45,6 +43,8 @@ Not:
 💡 Key idea:
 ChatGPT doesn’t know what’s appropriate or true.
 It just predicts what’s most likely to come next based on patterns in its training data.
+
+---
 
 ### Slide 4: Core Limitations
 
@@ -199,5 +199,11 @@ It just predicts what’s most likely to come next based on patterns in its trai
 
 - Any questions?
 - We can also write some prompts together&#x20;
+
+---
+
+### Slide 17: Links
+
+- [Deep research mode](https://openai.com/index/introducing-deep-research) 
 
 
